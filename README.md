@@ -32,14 +32,6 @@ so you can just run `python day01_two_sum.py` to see it work.
 |-----|----------|-------|------------|
 | 1 | Two Sum | Arrays / Hashing | Easy |
 | 2 | Reverse String | Strings / Two Pointers | Easy |
-| 3 | Valid Palindrome | Strings / Two Pointers | Easy |
-| 4 | Maximum Subarray (Kadane's) | Arrays / DP | Medium |
-| 5 | Contains Duplicate | Arrays / Hashing | Easy |
-| 6 | Valid Anagram | Strings / Hashing | Easy |
-| 7 | Binary Search | Binary Search | Easy |
-| 8 | Fibonacci Number | Recursion / DP | Easy |
-| 9 | Reverse Linked List | Linked List | Easy |
-| 10 | Merge Two Sorted Arrays | Arrays / Two Pointers | Easy |
 
 ## Author
 
