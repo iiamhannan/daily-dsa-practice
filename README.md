@@ -10,6 +10,7 @@ daily-dsa-practice/
 ├── python/
 │   ├── day01_two_sum.py
 │   ├── day02_reverse_string.py
+│   ├── day03_valid_palindrome.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -32,6 +33,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 |-----|----------|-------|------------|
 | 1 | Two Sum | Arrays / Hashing | Easy |
 | 2 | Reverse String | Strings / Two Pointers | Easy |
+| 3 | Valid Palindrome | Strings / Two Pointers | Easy |
 
 ## Author
 
