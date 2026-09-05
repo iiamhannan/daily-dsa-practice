@@ -12,6 +12,7 @@ daily-dsa-practice/
 │   ├── day02_reverse_string.py
 │   ├── day03_valid_palindrome.py
 │   ├── day04_maximum_subarray.py
+│   ├── day05_contains_duplicate.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -36,6 +37,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 2 | Reverse String | Strings / Two Pointers | Easy |
 | 3 | Valid Palindrome | Strings / Two Pointers | Easy |
 | 4 | Maximum Subarray (Kadane's) | Arrays / DP | Medium |
+| 5 | Contains Duplicate | Arrays / Hashing | Easy |
 
 ## Author
 
