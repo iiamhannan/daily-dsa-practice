@@ -14,6 +14,7 @@ daily-dsa-practice/
 │   ├── day04_maximum_subarray.py
 │   ├── day05_contains_duplicate.py
 │   ├── day06_valid_anagram.py
+│   ├── day07_binary_search.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -40,6 +41,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 4 | Maximum Subarray (Kadane's) | Arrays / DP | Medium |
 | 5 | Contains Duplicate | Arrays / Hashing | Easy |
 | 6 | Valid Anagram | Strings / Hashing | Easy |
+| 7 | Binary Search | Binary Search | Easy |
 
 ## Author
 
