@@ -16,7 +16,8 @@ daily-dsa-practice/
 │   ├── day06_valid_anagram.py
 │   ├── day07_binary_search.py
 │   ├── day08_fibonacci.py
-│   ├── day09_reverse_linked_list
+│   ├── day09_reverse_linked_list.py
+│   ├── day10_merge_sorted_arrays.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -46,6 +47,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 7 | Binary Search | Binary Search | Easy |
 | 8 | Fibonacci Number | Recursion / DP | Easy |
 | 9 | Reverse Linked List | Linked List | Easy |
+| 10 | Merge Two Sorted Arrays | Arrays / Two Pointers | Easy |
 
 ## Author
 
