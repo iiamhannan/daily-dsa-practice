@@ -16,8 +16,7 @@ daily-dsa-practice/
 │   ├── day06_valid_anagram.py
 │   ├── day07_binary_search.py
 │   ├── day08_fibonacci.py
-│   ├── day09_reverse_linked_list.py
-│   ├── day10_merge_sorted_arrays.py
+│   ├── day11_valid_parentheses.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -32,7 +31,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 - Name files `dayNN_problem_name.py` in order.
 - Add a one-line entry to the **Progress Log** below each time.
 - Topics rotate: arrays, strings, hashing, two pointers, recursion, sorting,
-  linked lists, stacks/queues, trees, dynamic programming.
+  linked lists, stacks/queues, trees, graphs, dynamic programming, heaps, backtracking.
 
 ## Progress Log
 
@@ -46,8 +45,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 6 | Valid Anagram | Strings / Hashing | Easy |
 | 7 | Binary Search | Binary Search | Easy |
 | 8 | Fibonacci Number | Recursion / DP | Easy |
-| 9 | Reverse Linked List | Linked List | Easy |
-| 10 | Merge Two Sorted Arrays | Arrays / Two Pointers | Easy |
+| 11 | Valid Parentheses | Stack | Easy |
 
 ## Author
 
