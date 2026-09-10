@@ -17,6 +17,7 @@ daily-dsa-practice/
 │   ├── day07_binary_search.py
 │   ├── day08_fibonacci.py
 │   ├── day11_valid_parentheses.py
+│   ├── day12_min_stack.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -46,6 +47,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 7 | Binary Search | Binary Search | Easy |
 | 8 | Fibonacci Number | Recursion / DP | Easy |
 | 11 | Valid Parentheses | Stack | Easy |
+| 12 | Min Stack | Stack | Medium |
 
 ## Author
 
