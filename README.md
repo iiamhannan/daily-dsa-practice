@@ -18,6 +18,7 @@ daily-dsa-practice/
 │   ├── day08_fibonacci.py
 │   ├── day11_valid_parentheses.py
 │   ├── day12_min_stack.py
+│   ├── day13_queue_using_stacks.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -48,6 +49,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 8 | Fibonacci Number | Recursion / DP | Easy |
 | 11 | Valid Parentheses | Stack | Easy |
 | 12 | Min Stack | Stack | Medium |
+| 13 | Implement Queue using Stacks | Stack / Queue | Easy |
 
 ## Author
 
