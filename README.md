@@ -20,6 +20,7 @@ daily-dsa-practice/
 │   ├── day12_min_stack.py
 │   ├── day13_queue_using_stacks.py
 │   ├── day14_binary_tree_inorder.py
+│   ├── day15_maximum_depth.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -52,6 +53,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 12 | Min Stack | Stack | Medium |
 | 13 | Implement Queue using Stacks | Stack / Queue | Easy |
 | 14 | Binary Tree Inorder Traversal | Trees | Easy |
+| 15 | Maximum Depth of Binary Tree | Trees | Easy |
 
 ## Author
 
