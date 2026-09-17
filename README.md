@@ -22,6 +22,7 @@ daily-dsa-practice/
 │   ├── day14_binary_tree_inorder.py
 │   ├── day15_maximum_depth.py
 │   ├── day16_validate_bst.py
+│   ├── day17_invert_binary_tree.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -56,6 +57,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 14 | Binary Tree Inorder Traversal | Trees | Easy |
 | 15 | Maximum Depth of Binary Tree | Trees | Easy |
 | 16 | Validate Binary Search Tree | Trees / BST | Medium |
+| 17 | Invert Binary Tree | Trees | Easy |
 
 ## Author
 
