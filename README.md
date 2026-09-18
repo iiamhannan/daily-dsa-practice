@@ -24,6 +24,7 @@ daily-dsa-practice/
 │   ├── day16_validate_bst.py
 │   ├── day17_invert_binary_tree.py
 │   ├── day18_same_tree.py
+│   ├── day19_level_order_traversal.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -60,6 +61,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 16 | Validate Binary Search Tree | Trees / BST | Medium |
 | 17 | Invert Binary Tree | Trees | Easy |
 | 18 | Same Tree | Trees | Easy |
+| 19 | Binary Tree Level Order Traversal | Trees / BFS | Medium |
 
 ## Author
 
