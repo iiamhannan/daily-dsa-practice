@@ -27,6 +27,7 @@ daily-dsa-practice/
 │   ├── day19_level_order_traversal.py
 │   ├── day20_number_of_islands.py
 │   ├── day21_clone_graph.py
+│   ├── day22_course_schedule.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -66,6 +67,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 19 | Binary Tree Level Order Traversal | Trees / BFS | Medium |
 | 20 | Number of Islands | Graphs / DFS / BFS | Medium |
 | 21 | Clone Graph | Graphs / DFS | Medium |
+| 22 | Course Schedule | Graphs / Topological Sort | Medium |
 
 ## Author
 
