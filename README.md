@@ -28,6 +28,7 @@ daily-dsa-practice/
 │   ├── day20_number_of_islands.py
 │   ├── day21_clone_graph.py
 │   ├── day22_course_schedule.py
+│   ├── day23_climbing_stairs.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -68,6 +69,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 20 | Number of Islands | Graphs / DFS / BFS | Medium |
 | 21 | Clone Graph | Graphs / DFS | Medium |
 | 22 | Course Schedule | Graphs / Topological Sort | Medium |
+| 23 | Climbing Stairs | Dynamic Programming | Easy |
 
 ## Author
 
