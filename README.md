@@ -30,6 +30,7 @@ daily-dsa-practice/
 │   ├── day22_course_schedule.py
 │   ├── day23_climbing_stairs.py
 │   ├── day24_house_robber.py
+│   ├── day25_longest_common_subsequence.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -72,6 +73,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 22 | Course Schedule | Graphs / Topological Sort | Medium |
 | 23 | Climbing Stairs | Dynamic Programming | Easy |
 | 24 | House Robber | Dynamic Programming | Medium |
+| 25 | Longest Common Subsequence | Dynamic Programming | Medium |
 
 ## Author
 
