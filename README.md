@@ -32,6 +32,7 @@ daily-dsa-practice/
 │   ├── day24_house_robber.py
 │   ├── day25_longest_common_subsequence.py
 │   ├── day26_knapsack.py
+│   ├── day27_kth_largest_element.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -76,6 +77,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 24 | House Robber | Dynamic Programming | Medium |
 | 25 | Longest Common Subsequence | Dynamic Programming | Medium |
 | 26 | 0/1 Knapsack | Dynamic Programming | Medium |
+| 27 | Kth Largest Element in an Array | Heaps / Priority Queue | Medium |
 
 ## Author
 
