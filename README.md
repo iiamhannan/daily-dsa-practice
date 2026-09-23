@@ -37,6 +37,7 @@ daily-dsa-practice/
 │   ├── day29_permutations.py
 │   ├── day30_subsets.py
 │   ├── day31_sliding_window_maximum.py
+│   ├── day32_longest_substring_no_repeat.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -86,6 +87,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 29 | Permutations | Backtracking | Medium |
 | 30 | Subsets | Backtracking | Medium |
 | 31 | Sliding Window Maximum | Sliding Window / Deque | Hard |
+| 32 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
 
 ## Author
 
