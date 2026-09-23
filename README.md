@@ -36,6 +36,7 @@ daily-dsa-practice/
 │   ├── day28_merge_k_sorted_lists.py
 │   ├── day29_permutations.py
 │   ├── day30_subsets.py
+│   ├── day31_sliding_window_maximum.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -84,6 +85,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 28 | Merge K Sorted Lists | Heaps / Linked Lists | Hard |
 | 29 | Permutations | Backtracking | Medium |
 | 30 | Subsets | Backtracking | Medium |
+| 31 | Sliding Window Maximum | Sliding Window / Deque | Hard |
 
 ## Author
 
