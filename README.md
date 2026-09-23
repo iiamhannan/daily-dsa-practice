@@ -34,6 +34,7 @@ daily-dsa-practice/
 │   ├── day26_knapsack.py
 │   ├── day27_kth_largest_element.py
 │   ├── day28_merge_k_sorted_lists.py
+│   ├── day29_permutations.py
 │   └── ...
 └── README.md   (progress log below)
 ```
@@ -80,6 +81,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 26 | 0/1 Knapsack | Dynamic Programming | Medium |
 | 27 | Kth Largest Element in an Array | Heaps / Priority Queue | Medium |
 | 28 | Merge K Sorted Lists | Heaps / Linked Lists | Hard |
+| 29 | Permutations | Backtracking | Medium |
 
 ## Author
 
