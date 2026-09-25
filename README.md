@@ -40,8 +40,7 @@ daily-dsa-practice/
 │   ├── day32_longest_substring_no_repeat.py
 │   ├── day33_merge_sort.py
 │   ├── day34_quick_sort.py
-│   └── ...
-└── README.md   (progress log below)
+│   └── day35_word_search.py
 ```
 
 Each file is self-contained: the problem statement is in the docstring at the top,
@@ -92,6 +91,7 @@ so you can just run `python day01_two_sum.py` to see it work.
 | 32 | Longest Substring Without Repeating Characters | Sliding Window | Medium |
 | 33 | Merge Sort (from scratch) | Sorting / Divide & Conquer | Medium |
 | 34 | Quick Sort (from scratch) | Sorting / Divide & Conquer | Medium |
+| 35 | Word Search | Backtracking / Matrix / DFS | Medium |
 
 ## Author
 
